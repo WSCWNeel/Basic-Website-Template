@@ -1,0 +1,75 @@
+/* General styling for the entire webpage */
+body{
+  background-image: url("Interesting\ glitchy.gif"); /* Path to your image */
+  background-size: cover; /* Ensure the image covers the entire background */
+  height: 100vh; /* Full viewport height */
+  padding:0;
+  margin:0; /* Remove default margin */
+  background-color: #1f1f1f; /* Fallback color */
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: #1f1f1f;
+  text-decoration: none;
+  font-size: 17px;
+  width: 31.5%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}
+
+.cavbar a {
+  float: left;
+  padding: 12px;
+  color: #1f1f1f;
+  text-decoration: none;
+  font-size: 17px;
+  width: 33%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}
+
+.lavbar a {
+  float: left;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 31.5%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}
+
+.taskbar a {
+  float: left;
+  padding: 6px;
+  text-decoration: none;
+  font-size: 9.5px;
+  width: 32%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}
+
+h2 {
+  text-shadow: 0.5px 1.5px 2.5px #1f1f1f; /* Adds a shadow effect */
+  color: #1f1f1f
+}
+
+h1 {
+  text-shadow: 0.5px 1.5px 2.5px #1f1f1f; /* Adds a shadow effect */
+  color: #1f1f1f
+}
+
+h3 {
+  text-shadow: 0.5px 1.5px 2.5px #1f1f1f; /* Adds a shadow effect */
+  color: #1f1f1f
+}
+
+div {
+  background-color: #1f1f1f; /* Background color */
+  color: #f1f1f1; /* Text color */
+}
+
+head  {
+  top: 0;
+}
+
+.button {
+  margin-right: 50px; /* Space between buttons */
+}

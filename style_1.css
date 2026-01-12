@@ -1,0 +1,151 @@
+/* General styling for the entire webpage */
+body {
+  background-color: #1f1f1f; /* Fallback color */
+  background-image: url("Beevo.png"); /* Path to your image */
+  background-size: 125%;        /* Ensures the image covers the whole area */
+  background-repeat: no-repeat;  /* Prevents tiling */
+  background-position: center;   /* Centers the image */
+  background-attachment: fixed;  /* Optional: keeps the image fixed on scroll */
+  padding: 0;
+  margin: 0; /* Removes default margin */
+}
+
+.navbar {
+  display: flex; /* Use flexbox for layout */
+  align-items: right;  /* Center items vertically */
+  justify-content: center; /* Center all items horizontally */
+  gap: 100px; /* Space between links and button */
+  padding: 12px; /* Padding around the navbar */
+  text-decoration: none; /* Remove underline from links */
+  font-size: 17px; /* Font size for links */
+  width: 100%; /* Full width */
+  background-color: #5b5f97; /* Background color */
+  border-bottom: #DED8D7 solid 5px; /* Bottom border */
+}
+
+.navbar button {
+  margin: 0;
+  padding: 0 10px; /* Padding inside the button */
+  text-align: center; /* Center text */
+  background: none;
+  border: none; /* No border */
+  font-size: 20px; /* Font size */
+  color: #ffc145; /* Text color */
+  text-shadow: 0.5px 1.5px 2.5px #6A7B76; /* Adds a shadow effect */
+  text-decoration: none; /* Remove underline from links */
+  margin-top: 10px; /* Space above the button */
+  font-family: 'ADLaM Display',Verdana, Geneva, Tahoma, sans-serif; /* Font family */
+  border-radius: 5px; /* Rounded corners */
+  border: #5b5f9719 solid 5px; /* Border color and thickness */
+}
+
+.navbar button:hover {
+  background-color: #b9cefb;
+  color:#9FBBF9;
+  border: 2.5px solid #9FBBF9; /* Border color and thickness */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.cavbar {
+  background-color: #b9cefb; /* Light blue background */
+  padding: 15px; /* Padding around the navbar */
+  border-radius: 8px; /* Rounded corners */
+  text-align: center; /* Center the text */
+  margin: 20px auto; /* Center the navbar horizontally */
+  max-width: 600px; /* Limit the maximum width */
+  border-radius: 10px; /* Rounded corners */
+}
+
+.cavbar button {
+  background-color: #5b5f97; /* Button background color */
+  color: #ffc145; /* Button text color */
+  font-family: 'ADLaM Display',Verdana, Geneva, Tahoma, sans-serif; /* Font family */
+  font-size: 17.5px;
+  font-weight: bold; /* Bold text */
+  text-align: center; /* Center text */
+  text-decoration: none; /* Remove underline from links */
+  padding: 10px 15px; /* Padding inside the button */
+  border: 2.5px solid #5b5f97; /* Border color and thickness */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  margin: 0 10px; /* Space between buttons */
+  display: inline-block; /* Ensures buttons are inline */
+}
+
+.cavbar button:hover {
+  background-color: #b9cefb;
+  color:#9FBBF9;
+  border: 2.5px solid #9FBBF9; /* Border color and thickness */
+}
+
+.lavbar a {
+  float: left;
+  padding: 12px;
+  color: #f1f1f1;
+  text-decoration: none;
+  font-size: 17px;
+  width: 31.5%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}
+
+.taskbar a {
+  float: left;
+  padding: 6px;
+  color: #f1f1f1;
+  text-decoration: none;
+  font-size: 9.5px;
+  width: 32%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}
+
+h2 {
+  text-shadow: 0.5px 1.5px 2.5px #2B2D42; /* Adds a shadow effect */
+  color: #DED8D7
+}
+
+h1 {
+  text-shadow: 0.5px 1.5px 2.5px #2B2D42; /* Adds a shadow effect */
+  color: #DED8D7
+}
+
+h3 {
+  text-shadow: 0.5px 1.5px 2.5px #2B2D42; /* Adds a shadow effect */
+  color: #DED8D7
+}
+
+head  {
+  top: 0;
+}
+
+.content {
+  max-width: 1250px;
+  margin: auto; /* Center the content */
+  background: linear-gradient(#6a7b7693); /* Semi-transparent background */
+  padding: 10px; /* Padding around the content */
+  color : #DED8D7; /* Text color */
+  font-family: 'Sour Gummy'; /* Add this line */
+/* <weight>: Use a value from 100 to 900 */
+/* <uniquifier>: Use a unique and descriptive class name */
+
+.sour-gummy-uniquifier {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "wdth" 500;
+}
+
+
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; /* Full screen */
+  background-color: #ffffff; /* Or any background color */
+  background-image: url('Interesting glitchy.gif'); /* Path to your loading image */
+  background-repeat: no-repeat; /* Prevents tiling */
+  background-position: center; /* Centers the image */
+  z-index: 10000; /* High z-index to overlay other content */
+}
+
