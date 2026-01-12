@@ -7,75 +7,75 @@ window.addEventListener('load', function() {
 });
 /* Home Page*/
 function About_Us() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/about_us.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/about_us.html");
 }
 function Year_12_Resource_Website() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/index.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/index.html");
 }
 function How_to_use_the_Website() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/how_to_use_the_website.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/how_to_use_the_website.html");
 }
 /* Home Page Subjects*/
 function myMaths() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/advanced_maths.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/advanced_maths.html");
 }
 function myPhysics() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/physics.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/physics.html");
 }
 function myEnglish() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/english.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/english.html");
 }
 /* English Topics*/
 function myFilm_Study() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/film_study.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/film_study.html");
 }
 function myWide_Reading() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/wide_reading.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/wide_reading.html");
 }
 function myWriting_Portfolio() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/writing_portfolio.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/writing_portfolio.html");
 }
 function myPersonal_Responses() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/personal_responses.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/personal_responses.html");
 }
 function myResearch_Study() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/research_study.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/research_study.html");
 }
 function myEnglish_Pre_Exam_Revision() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/english_pre_exam_revision.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/english_pre_exam_revision.html");
 }
 /* Maths Topics*/
 function myAlgebra() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/algebra.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/algebra.html");
 }
 function myTrigonometry() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/trigonometry.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/trigonometry.html");
 }
 function myGraphing() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/graphing.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/graphing.html");
 }
 function myCalculus() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/calculus.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/calculus.html");
 }
 function mySimultaneous_Equations() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/simultaneous_equations.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/simultaneous_equations.html");
 }
 function myAdvanced_Maths_Pre_Exam_Revision() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/advanced_maths_pre_exam_revision.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/advanced_maths_pre_exam_revision.html");
 }
 /* Physics Topics*/
 function myMechanics() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/mechanics.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/mechanics.html");
 }
 function myPhysics_in_Context() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/physics_in_context.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/physics_in_context.html");
 }
 function myElectricity_and_Magnetism() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/electricity_and_magnetism.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/electricity_and_magnetism.html");
 }
 function myAtomic_and_Wave_Physics() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/atomic_and_wave_physics.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/atomic_and_wave_physics.html");
 }
 function myPhysics_Pre_Exam_Revision() {
-window.location.href = ("https://wscwneel.github.io/Year-12-Learning-Resources-Website/physics_pre_exam_revision.html");
+window.location.href = ("https://wscwneel.github.io/Basic-Website-Template/physics_pre_exam_revision.html");
 }
